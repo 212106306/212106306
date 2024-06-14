@@ -18,7 +18,7 @@ export default {
   },
   data(){
     return {
-      msg:"hello"
+      msg:"hello1"
     }
   }
 }
