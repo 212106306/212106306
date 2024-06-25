@@ -1,0 +1,21 @@
+git config --global user.name "张玉清"
+git config --global user.email "2236851652@qq.com"
+
+1
+git commit -m "text commit"
+git commit -m "commit web file"
+git push origin master
+登录链接https://github.com/login/device
+D327-144A
+2
+git remote add origin https://github.com/guobinhit/springmvc-tutorial.git
+git pull origin master
+git add   
+git commit
+git push origin master
+
+
+虚拟机17：https://url.atusu.cn/vm17debian
+
+开源软件：https://www.exception.site/
+
